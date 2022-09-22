@@ -1,4 +1,4 @@
-db = db.getSiblingDB("local");
+db = db.getSiblingDB("puccamp");
 
 db.alunos.insert(
 {    
